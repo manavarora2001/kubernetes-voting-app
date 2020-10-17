@@ -1,3 +1,4 @@
+# Its a Load Balancer as this will expose the Voting -app to the outside world
 apiVersion: v1
 kind: Service
 metadata:
